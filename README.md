@@ -1,1 +1,1 @@
-# greekbookhero.io
+#!/bin/bash
