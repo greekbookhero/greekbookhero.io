@@ -1050,6 +1050,7 @@ input:focus {
   float:left;
 }
 #menu{
+  line-height:14px;
   position: relative;
   bottom: -40px;
   background: #edeef0;
@@ -1200,5 +1201,4 @@ input:focus {
   right: 0px;
   background-color: white;
   color:#939393;
-
 }
