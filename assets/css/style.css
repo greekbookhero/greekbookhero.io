@@ -1,0 +1,1204 @@
+*{
+  margin: 0;
+  padding: 0;
+  outline: none;
+  background-color:#edeef0;
+}
+a {
+  color: #2a5885;
+  text-decoration: none;
+  cursor: pointer;
+}
+div{
+  background-color: white;
+}
+#bekzhan{
+  position: absolute;
+  background-color: white;
+  font-weight: 400;
+  font-size: 19px;
+  padding-left: 1px;
+  left:20px;
+  color:black;
+}
+#status{
+  position: absolute;
+  width: 522px;
+  height: 24px;
+  top:37px;
+  left:20px;
+  right: 1418px;
+  color: black;
+  bottom: 11px;
+  background-color: white;
+  font-size: 14px;
+  font-family: sans-serif;
+}
+#timeaway{
+  position: absolute;
+  background-color: white;
+  text-align: center;
+  width: 200px;
+  height: 18px;
+  left: 350px;
+  top:6px;
+  right: 1412px;
+  bottom: 94px;
+  font-size: 11.5px;
+  color: #939393;
+}
+#birthday{
+  position: absolute;
+  background-color: white;
+  color: #939393;
+  width: 165px;
+  height: 19px;
+  left: 20px;
+  top:70px;
+  right: 1067px;
+  bottom: 146px;
+}
+#company{
+  position: absolute;
+  background-color: white;
+  color: #939393;
+  width: 165px;
+  height: 5px;
+  left: 20px;
+  top:100px;
+  right: 1067px;
+  bottom: 146px;
+}
+#date{
+  position: absolute;
+  background-color: white;
+  color: #2a5885;
+  top:70px;
+  left: 186px;
+}
+#showinfo{
+  position: absolute;
+  background-color: white;
+  color: #2a5885;
+  top:138px;
+  left: 186px;
+
+}
+#marvel_dc{
+  position: absolute;
+  background-color: white;
+  color: #2a5885;
+  top:100px;
+  left: 186px;
+}
+#friendsnumbers{
+  position: absolute;
+  background-color: white;
+  font-size: 19px;
+  top:-2x;
+  left:150px;
+}
+#photos{
+  position: absolute;
+  background-color: white;
+  font-size: 19px;
+  left:210px;
+}
+#videos{
+  position: absolute;
+  background-color: white;
+  font-size: 19px;
+  left:260px;
+}
+#audionumbers{
+  
+    position: absolute;
+    background-color: white;
+    font-size: 19px;
+    left:310px;
+  
+}
+#friendstext{
+  position: absolute;
+  color: #939393;
+  background-color: white;
+  height: 2px;
+  font-size: 11px;
+  left:150px;
+  top:32px;
+}
+#friendstext2{
+  position: absolute;
+  left: 15px;
+  color:black;
+  background-color: white;
+}
+#numbersoffriends{
+  position: absolute;
+  background-color: white;
+  color:#939393;
+  left:65px;
+}
+#updates{
+  position: absolute;
+  left:160px;
+  background-color: white;
+  color:#939393;
+
+}
+#friend1{
+  position: absolute;
+  top:15px;
+  left:20px;
+  border-radius: 50%;
+}
+#danel{
+  position: absolute;
+  width: 10xp;
+  top:65px;
+  left:24px;
+  background-color: white;
+}
+#friend2{
+  position: absolute;
+  top:15px;
+  left:90px;
+  border-radius: 50%;
+}
+#ayan{
+  position: absolute;
+  top:65px;
+  left:98px;
+  background-color: white;
+}
+#friend3{
+  position: absolute;
+  top:15px;
+  left:160px;
+  border-radius: 50%;
+}
+#danil{
+  position: absolute;
+  top:65px;
+  left:163px;
+  background-color: white;
+}
+#friend4{
+  position: absolute;
+  top:100px;
+  left:20px;
+  border-radius: 50%;
+}
+#elnur{
+  position: absolute;
+  height: 0;
+  width: 0;
+  top:145px;
+  left:24px;
+  background-color: white;
+}
+#friend5{
+  position: absolute;
+  top:100px;
+  left:90px;
+  border-radius: 50%;
+}
+#berkut{
+  position: absolute;
+  height: 0;
+  width: 0;
+  top:144px;
+  left:95px;
+  background-color: white;
+}
+#friend6{
+  position: absolute;
+  top:100px;
+  left:160px;
+  border-radius: 50%;
+}
+#aray{
+  position: absolute;
+  height: 0;
+  width: 0;
+  top:144px;
+  left:170px;
+  background-color: white;
+}
+#onlinefriendstext{
+  position: absolute;
+  left: 15px;
+  color:black;
+  background-color: white;
+}
+#onlinefriendsnumber{
+
+  position: absolute;
+  left: 110px;
+  color:#939393;
+  background-color: white;
+}
+#night{
+  position: absolute;
+  left: 20px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+#etooskar{
+  position: absolute;
+  background-color: white;
+  top:35px;
+  left:30px;
+
+}
+#posti{
+  position: absolute;
+  height: 33px;
+  left:20px;
+  background-color: white;
+  border-bottom: 2px solid #5181b8;
+  color: black;
+}
+#bottomsearch{
+  position: absolute;
+  top:15px;
+  left:515px;
+  background-color: white;
+}
+#myposts{
+  position: absolute;
+  color:#656565;
+  background-color: white;
+  left: 90px;
+}
+#postarchive{
+  position: absolute;
+  color:#656565;
+  background-color: white;
+  left: 160px;
+}
+#photosnumbers{
+  position: absolute;
+  color: #939393;
+  background-color: white;
+  height: 2px;
+  font-size: 11px;
+  left:200px;
+  top:32px;
+}
+#videostext{
+  position: absolute;
+  color: #939393;
+  background-color: white;
+  height: 2px;
+  font-size: 11px;
+  left:260px;
+  top:32px;  
+}
+#audiostext{
+  position: absolute;
+  color: #939393;
+  background-color: white;
+  height: 2px;
+  font-size: 11px;
+  left:315px;
+  top:32px;
+}
+#homeicon{
+  position: absolute;
+  top:11px;
+  left:9px;
+  background-color: white
+}
+#enteryour{
+  position: absolute;
+  left:40px;
+  background-color: white;
+  color:black
+}
+.fa-times{
+  position: absolute;
+  left:210px;
+  top:11px;
+  background-color: white;
+  color: #bcc8d4;
+}
+#firstphoto{
+  position: absolute;
+  width: 123px;
+  height: 123px;
+  top:10px;
+  left:20px;
+
+}
+#secondphoto{
+  position: absolute;
+  width: 123px;
+  height: 123px;
+  top:10px;
+  left:153px;
+
+}
+#thirdphoto{
+  position: absolute;
+  width: 123px;
+  height: 123px;
+  top:10px;
+  left:290px;
+
+}
+#fourthphoto{
+  position: absolute;
+  width: 123px;
+  height: 123px;
+  top:10px;
+  left:420px;
+
+}
+#bottomavatarka{
+  position: absolute;
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+  top:11px;
+  left:20px;
+}
+#whatsnewtext{
+  position: absolute;
+  top:5px;
+  left:60px;
+  color: #939393;
+  background-color: white;
+}
+
+#avatarka{
+  border-radius: 50%;
+  position: absolute;
+  left: 1375px;
+  top:7px;
+  right: 1409px;
+  bottom: 35px;
+
+}
+p{
+  padding-top: 11px;
+  font-size: 12.5px;
+  color: #285473;
+  font-family: -apple-system, BlinkMacSystemFont, Roboto, "Open Sans", "Helvetica Neue", "Noto Sans Armenian", "Noto Sans Bengali", "Noto Sans Cherokee", "Noto Sans Devanagari", "Noto Sans Ethiopic", "Noto Sans Georgian", "Noto Sans Hebrew", "Noto Sans Kannada", "Noto Sans Khmer", "Noto Sans Lao", "Noto Sans Osmanya", "Noto Sans Tamil", "Noto Sans Telugu", "Noto Sans Thai", sans-serif;
+}
+.name{
+  position: absolute;
+  bottom:42px;
+  left:1303px;
+  top:0px;
+  color: white;
+
+  font-family: -apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,Geneva,Noto Sans Armenian,Noto Sans Bengali,Noto Sans Cherokee,Noto Sans Devanagari,Noto Sans Ethiopic,Noto Sans Georgian,Noto Sans Hebrew,Noto Sans Kannada,Noto Sans Khmer,Noto Sans Lao,Noto Sans Osmanya,Noto Sans Tamil,Noto Sans Telugu,Noto Sans Thai,sans-serif;
+  font-size: 12.5px;
+  background-color: #4b77a8;
+  border: none;
+}
+
+
+.fa-angle-down{
+  color: white;
+  position: absolute;
+  background-color: #4b77a8;
+  left: 1416px;
+  top:13px;
+  right: 1424px;
+  bottom: 24px;
+}
+header img{
+  background-color: #4b77a8;
+}
+#mainphoto{
+  position:absolute;
+  bottom: 272px;
+  top:18px;
+  left: 15px;
+  right: 852px;
+}
+header{
+ position: fixed;
+ z-index: 2;
+ width: 100%;
+ background: #4b77a8;
+ height: 42px;
+}
+#logo{
+  background-color: #4b77a8;
+  padding: 10px;
+  margin-left: 460px;
+  float: left;
+}
+#audio{
+  position: absolute;
+  left:935px;
+  top:11px;
+  right: 961;
+  bottom:31px;
+}
+#editbutton{
+  position: absolute;
+  background: #e5ebf1;
+  border-radius: 5px;
+  width: 157px;
+  height: 30px;
+  top: 291px;
+  bottom: 314px;
+  left:650px;
+  right:809px;
+}
+#edit{
+  color: #55677d;
+  padding: 5px;
+  margin-left: 60px;
+}
+#change{
+  position: absolute;
+  background-color: white;
+  top:30px;
+  left:-10px;
+}
+#namelessbutton{
+  position: absolute;
+  border-radius: 5px;
+  background-color: #e5ebf1;
+  width: 36px;
+  height: 30px;
+  left: 815px;
+  top:291px;
+  right: 836px;
+  bottom: 306px;
+}
+#private{
+  color:#939393;
+  position: absolute;
+  left:670px;
+  top:320px;
+  background-color: white;
+}
+#namelesstext{
+  color: #55677d;
+  padding: 7px;
+  margin-left: 1px;
+  font-size: 10px;
+}
+#podarki{
+  position: absolute;
+  background-color: white;
+  color: black;
+  font-size: 12.5px;
+  left:10px;
+  
+}
+#podarkinumber{
+  position: absolute;
+  background-color: white;
+  color: #939393;
+  left:50px;
+}
+#maininfo{
+  position: absolute;
+  background-color:white;
+  width: 550px;
+  height: 186px;
+  left: 882px;
+  top: 58px;
+  right: 1432px;
+  bottom: 243px;
+  border-bottom: 1px solid #dfe2e8;
+}
+#otherinfo{
+  position: absolute;
+  background-color: white;
+  width: 550px;
+  height: 70px;
+  left: 882px;
+  top:245px;
+  right: 1432px;
+  bottom: 313px;
+}
+#contacts{
+  background-color: white;
+  position: absolute;
+  height: 41px;
+  width: 230px;
+  left: 635px;
+  top: 374px;
+  right: 867px;
+  bottom: 415px;
+}
+#myphotos{
+  position: absolute;
+  width: 550px;
+  height: 34px;
+  left: 882px;
+  top:328px;
+  right: 1432px;
+  bottom: 362px;
+}
+#photostext{
+  position: absolute;
+  background-color: white;
+  color:black;
+  left:20px;
+}
+#photosnumber{
+  position: absolute;
+  background-color: white;
+  color:#939393;
+  left:90px;
+}
+#showonyhemap{
+  position: absolute;
+  background-color: white;
+  color:#939393;
+  left: 420px;
+}
+#underphotos{
+  position: absolute;
+  width: 550px;
+  height: 156px;
+  left: 882px;
+  top: 362px;
+  right: 1432px;
+  bottom: 518px;
+}
+#whatsnew{
+  position: absolute;
+  width: 550px;
+  height: 52px;
+  left: 882px;
+  top: 533px;
+  right: 1432px;
+  bottom: 585px;
+}
+#firstimg{
+  position: absolute;
+  left:400px;
+  top:15px;
+  background-color: white;
+}
+#secondimg{
+  position: absolute;
+  left: 425px;
+  top:16px;
+}
+#thirdimg{
+  position: absolute;
+  left: 450px;
+  top:16px;
+  background-color: white;
+}
+#fourthimg{
+  position: absolute;
+  left: 470px;
+  top:13px;
+  background-color: white;
+}
+#rainbowimg{
+  position: absolute;
+  width: 39px;
+  top:13px;
+  left: 500px;
+  height: 20px;
+  border-left: 1px solid #e7e8ec;
+}
+#rainbowimage{
+  position: absolute;
+  left: 10px;
+  background-color: white;
+}
+#gifts{
+  position: absolute;
+  width: 230px;
+  height: 32px;
+  left: 635px;
+  top: 426px;
+  right: 867px;
+  bottom: 462px;
+}
+#giftsimg{
+  background-color: white;
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  top:10px;
+  left: 8px;
+}
+#giftsimg1{
+  background-color: white;
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  top:10px;
+  left: 78px;
+}
+#giftsimg2{
+  background-color: white;
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  top:10px;
+  left: 147px;
+}
+#giftslogo{
+  position: absolute;
+  width: 230px;
+  height: 89px;
+  left: 635px;
+  top: 458px;
+  right: 850px;
+  bottom: 551px;
+
+}
+#friends{
+  position: absolute;
+  width: 230px;
+  height: 32px;
+  left: 635px;
+  top: 560px;
+  right: 867px;
+  bottom: 598;
+}
+#friendslogo{
+  position: absolute;
+  width: 230px;
+  height: 180px;
+  left: 635px;
+  top: 592px;
+  right: 867px;
+  bottom: 778px;
+}
+#onlinefriends{
+  position: absolute;
+  width: 230px;
+  height: 32px;
+  left: 635px;
+  top: 773px;
+  right: 852px;
+  bottom: 811px;
+}
+#onlinefriendslogo{
+  position: absolute;
+  width: 230px;
+  height: 90px;
+  left: 635px;
+  top: 805px;
+  right: 867px;
+  bottom: 991px;
+}
+#followingtop{
+  position: absolute;
+  width: 232px;
+  height: 32px;
+  left:635px;
+  top:916px;
+}
+#followtext{
+  position: absolute;
+  background-color: white;
+  color:black;
+  left:20px;
+  top:3px;
+}
+#follownumber{
+  position: absolute;
+  background-color: white;
+  color:#939393;
+  left:90px;
+  top:3px;
+}
+#dankmemes{
+  top:5px;
+  left:10px;
+  position: absolute;
+  border-radius: 50%;
+}
+#dankmemestext{
+  position: absolute;
+  background-color: white;
+  font-size: 11px;
+  width: 130px;
+  height: -10px;
+  left: 80px;
+  top:-4px;
+}
+#dankmemesundertext{
+  position: absolute;
+  background-color: white;
+  color:#939393;
+  top:35px;
+  left:80px;
+}
+#igm{
+  top:71px;
+  left:10px;
+  position: absolute;
+  border-radius: 50%;
+}
+#igmtext{
+  position: absolute;
+  background-color: white;
+  font-size: 11px;
+  width: 130px;
+  height: -10px;
+  left: 80px;
+  top:64px;
+}
+#igmundertext{
+  position: absolute;
+  background-color: white;
+  color:#939393;
+  top:87px;
+  left:80px;
+}
+#hikimori{
+  top:130px;
+  left:10px;
+  position: absolute;
+  border-radius: 50%;
+}
+#hikimoritext{
+  position: absolute;
+  background-color: white;
+  top:110px;
+  left:80px;
+}
+#hikimorytext{
+  position: absolute;
+  width: 147px;
+  height: 48px;
+  background-color: white;
+  color:#939393;
+  top:135px;
+  left:80px;
+}
+#q{
+  top:212px;
+  left:10px;
+  position: absolute;
+  border-radius: 50%;
+}
+#qtext{
+  position: absolute;
+  background-color: white;
+  top:200px;
+  left:80px;
+}
+#qundertext{
+  position: absolute;
+  width: 147px;
+  height: 48px;
+  background-color: white;
+  color:#939393;
+  top:225px;
+  left:80px;
+}
+#reddit{
+  top:278px;
+  left:10px;
+  position: absolute;
+  border-radius: 50%;  
+}
+#reddittext{
+  position: absolute;
+  background-color: white;
+  height: 0px;
+  top:267px;
+  left:80px;
+}
+#underreddittext{
+  position: absolute;
+  width: 152px;
+  height: 0px;
+  background-color: white;
+  color:#939393;
+  top:290px;
+  left:80px;
+
+}
+#videostop{
+  position: absolute;
+  width: 232px;
+  height: 32px;
+  left:635px;
+  top:1282px;
+}
+#videostextbottom{
+  position: absolute;
+  background-color: white;
+  color:black;
+  left:20px;
+
+}
+#videosnumbertext{
+  position: absolute;
+  background-color: white;
+  color:#939393;
+  left:80px;
+}
+#videosbottom{
+  position: absolute;
+  width: 232px;
+  height: 324px;
+  left:635px;
+  top:1314px;
+}
+#firstvideo{
+  position: absolute;
+  left: 15px;
+  top:20px;
+  width: 200px;
+  height: 112px;
+}
+#videotext1{
+  position: absolute;
+  background-color: white;
+  top:127px;
+  left:15px;
+  font-size:13.5px;
+}
+#secondvideo{
+  position: absolute;
+  left: 15px;
+  top:185px;
+  width: 200px;
+  height: 112px;
+}
+#videotext2{
+  position: absolute;
+  background-color: white;
+  width:201PX;
+  height: 0px;
+  top:290px;
+  left:15px;
+  font-size:13.5px;
+
+}
+#musictop{
+  position: absolute;
+  width: 232px;
+  height: 32px;
+  left:635px;
+  top:1639px;
+}
+#musictoptext{
+  position: absolute;
+  background-color: white;
+  color:black;
+  left:20px;
+}
+#musicnumbers{
+  position: absolute;
+  background-color: white;
+  color:#939393;
+  left:65px;
+}
+#musicbottom{
+  position: absolute;
+  width: 232px;
+  height: 175px;
+  left:635px;
+  top:1671px;
+}
+#audioimg1{
+  position: absolute;
+  left:20px;
+}
+#titletop1{
+  font-weight: 550;
+  position:absolute;
+  background: white;
+  color:black;
+  left: 65px;
+  top:-7px;
+}
+#titlebottom1{
+  position:absolute;
+  background: white;
+  color:#939393;
+  height: 0px;
+  left: 65px;
+  top:10px;
+}
+#audioimg2{
+  position: absolute;
+  top:55px;
+  left:20px;
+}
+#audioimg3{
+  position: absolute;
+  top:110px;
+  left:20px;
+}
+#titletop2{
+  color:black;
+  font-weight: 550;
+  background: white;
+  position: absolute;
+  top:46px;
+  left:65px; 
+}
+#titlebottom2{
+  color:#939393;
+  background: white;
+  position: absolute;
+  top:64px;
+  left:65px; 
+}
+#titletop3{
+  color:black;
+  font-weight: 550;
+  background: white;
+  position: absolute;
+  top:100px;
+  left:65px;
+}
+#titlebottom3{
+  color:#939393;
+  background: white;
+  position: absolute;
+  top:119px;
+  left:65px; 
+}
+#followingbottom{
+  position: absolute;
+  width: 232px;
+  height: 333px;
+  left: 635px;
+  top:948px;
+}
+#allposts{
+  position: absolute;
+  width: 550px;
+  height: 45px;
+  left: 882px;
+  top: 600px;
+  right: 1432px;
+  bottom: 646px;
+}
+#pinnedpost{
+  position: absolute;
+  width: 550px;
+  height: 65px;
+  left: 882px;
+  top: 646px;
+  right: 1432px;
+  bottom: 771px;
+}
+#post{
+  position:absolute;
+  width: 550px;
+  height: 374px;
+  left: 882px;
+  top: 700px;
+  right: 1432px;
+  bottom: 1086px;
+}
+#uved{
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 888px;
+  top:11px;
+  right: 915px;
+  bottom: 31px;
+}
+input{
+  color:#8fadc8;
+  text-indent: 30px;
+  position: absolute;
+  left: 625px;
+  top: 7px;
+  right: 867px;
+  bottom: 35px;
+  width: 230px;
+  height: 28px;
+  background-image: url(search.svg);
+  background-position-y:7px;
+  background-position-x: 10px;
+  background-repeat: no-repeat;
+  background-color:#224b79;
+  border-radius: 15px;
+  border: none;
+}
+input:focus {
+  background-color: white;
+}
+::placeholder {
+  color: #8fadc8;
+  opacity: 3;
+}
+#mainavatarka{
+  position: absolute;
+  width: 230px;
+  height: 302px;
+  left: 635px;
+  top: 57px;
+  right: 867px;
+  bottom: 359px;
+}
+
+#content{
+  background: #edeef0;
+  min-height: 940px;
+  width:466px;
+  float:left;
+}
+#menu{
+  position: relative;
+  bottom: -40px;
+  background: #edeef0;
+  width: 122px;
+  float: left;
+  margin-left: 0;
+  margin-top: 8px;
+  border-bottom: 1px solid #dfe2e8;
+
+}
+#icons{
+  position: relative;
+  bottom: -42px;
+  width: 35px;
+  min-height: 940px;
+  background: #edeef0;
+  float: left;
+}
+#posttopavatarka{
+  position: absolute;
+  top:5px;
+  left: 20px;
+  width: 50px;
+  border-radius: 50%;
+}
+#namepost{
+  position: absolute;
+  background: white;
+  left:80px;
+  top:5px;
+  font-weight: 600;
+}
+.fa-lock{
+  position: absolute;
+  background-color: white;
+  color:#939393;
+  font-size: 10px;
+  left:210px;
+  top:20px;
+
+}
+#pinnedtext{
+  position: absolute;
+  color:#939393;
+  background-color: white;
+  left:225px;
+  top:4px;
+}
+#pindate{
+  position: absolute;
+  background-color:white;
+  color:#939393;
+  left:80px;
+  top:20px;
+}
+#postimage{
+  position:absolute;
+  width: 510px;
+  height: 287px;
+  left:20px;
+  top:20px;
+}
+#postmusic{
+  position: absolute;
+  top:320px;
+  left:20px;
+
+}
+#songname{
+  background-color: white;
+  position: absolute;
+  top:312px;
+  font-weight:600;
+  left:50px
+}
+#songtitle{
+  color:black;
+  background-color: white;
+  position: absolute;
+  top:312px;
+  left:140px;
+}
+.fa-minus{
+  position: absolute;
+  top:327px;
+  left:124px;
+  background-color: white;
+  color:#070707;
+  font-size: 8px;
+}
+#postbuttom{
+  position: absolute;
+  border-top: 1px solid #e7e8ec;
+  width:500px;
+  height: 40px;
+  top:1075px;
+  left:908px;
+}
+#block1{
+  position: absolute;
+  width: 26px;
+  height: 42px;
+  top:1074px;
+  left:882px;
+}
+#block2{
+  position: absolute;
+  width: 24px;
+  height: 42px;
+  top:1074px;
+  left:1408px;
+}
+#likes{
+  background-color: white;
+  top:5px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+
+}
+#numberoflikes{
+  position: absolute;
+  left:30px;
+  top:-3px;
+  width: 0;
+  height: 0;
+  color: #67707a;
+  font-weight: 600;
+}
+#repost{
+  background-color: white;
+  top:5px;
+  left:65px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
+.fa-eye{
+  position: absolute;
+  background-color: white;
+  color:#c0c4cc;
+  right:17px;
+  top:10px
+}
+#numberofview{
+  position: absolute;
+  top:-2px;
+  right: 0px;
+  background-color: white;
+  color:#939393;
+
+}
